@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a graduate student at Indian Institute of Technology Delhi, India. I work in Deep Reinforcement Learning and Machine learning. I plan to share my views and my journey on this blog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:vishal.sharma@cse.iitd.ac.in)
