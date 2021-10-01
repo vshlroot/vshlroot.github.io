@@ -8,4 +8,4 @@ I am a graduate student at Indian Institute of Technology Delhi, India. I work i
 
 ### Contact me
 
-[email@domain.com](mailto:vishal.sharma@cse.iitd.ac.in)
+[vishal.sharma@cse.iitd.ac.in](mailto:vishal.sharma@cse.iitd.ac.in)
