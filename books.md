@@ -7,6 +7,7 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## 2021
+* **kafka on the Shore** by Murakami, Haruki 
 
 * **Only Human (Themis Files, #3)** by Neuvel, Sylvain
 
@@ -16,9 +17,9 @@ Below is a list of some of the books I enjoyed.
 
 * **For We Are Many (Bobiverse, #2)** by Taylor, Dennis E.
 
-* **The Sign of Four (Sherlock Holmes, #2)** by Doyle, Arthur Conan 
-
 * **We Are Legion (We Are Bob) (We Are Bob) (Bobiverse, #1)** by Taylor, Dennis E.
+
+* **The Sign of Four (Sherlock Holmes, #2)** by Doyle, Arthur Conan 
 
 * **Project Hail Mary** by Weir, Andy
 
@@ -29,6 +30,10 @@ Below is a list of some of the books I enjoyed.
 * **Catching Fire (The Hunger Games, #2)** by Collins, Suzann
 
 * **The Hunger Games (The Hunger Games, #1)** by Collins, Suzann
+
+* **A Short History of Nearly Everything** by  Bryson, Bill 
+
+* **Recursion** by Crouch, Blake
 
 * **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
 
