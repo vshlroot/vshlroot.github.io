@@ -7,37 +7,41 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## 2021
-* **Can't hurt me** by Goggins, David 
+* [Nov] **Can't hurt me** by Goggins, David 
 
-* **Kafka on the Shore** by Murakami, Haruki 
+* [Sep] **Kafka on the Shore** by Murakami, Haruki 
 
-* **Only Human (Themis Files, #3)** by Neuvel, Sylvain
+* [Aug] **Only Human (Themis Files, #3)** by Neuvel, Sylvain
 
-* **Waking Gods (Themis Files, #2)** by Neuvel, Sylvain
+* [Aug] **Waking Gods (Themis Files, #2)** by Neuvel, Sylvain
 
-* **Sleeping Giants (Themis Files, #1)** by Neuvel, Sylvain
+* [Aug] **Sleeping Giants (Themis Files, #1)** by Neuvel, Sylvain
 
-* **For We Are Many (Bobiverse, #2)** by Taylor, Dennis E.
+* [Aug] **The Sign of Four (Sherlock Holmes, #2)** by Doyle, Arthur Conan 
 
-* **We Are Legion (We Are Bob) (We Are Bob) (Bobiverse, #1)** by Taylor, Dennis E.
+* [Jul] **For We Are Many (Bobiverse, #2)** by Taylor, Dennis E.
 
-* **The Sign of Four (Sherlock Holmes, #2)** by Doyle, Arthur Conan 
+* [Jul] **We Are Legion (We Are Bob) (We Are Bob) (Bobiverse, #1)** by Taylor, Dennis E.
 
-* **Project Hail Mary** by Weir, Andy
+* [Jun] **Harry Potter and the Chamber of Secrets (Harry Potter, #2)** by Rowling, JK
 
-* **Animal Farm** by Orwell, George
+* [May] **Project Hail Mary** by Weir, Andy
 
-* **Mockingjay (The Hunger Games, #3)** by Collins, Suzann
+* [May] **Harry Potter and the Sorcerer's Stone (Harry Potter, #1)** by Rowling, JK
 
-* **Catching Fire (The Hunger Games, #2)** by Collins, Suzann
+* [Mar] **Animal Farm** by Orwell, George
 
-* **The Hunger Games (The Hunger Games, #1)** by Collins, Suzann
+* [Mar] **Mockingjay (The Hunger Games, #3)** by Collins, Suzann
 
-* **A Short History of Nearly Everything** by  Bryson, Bill 
+* [Mar] **Catching Fire (The Hunger Games, #2)** by Collins, Suzann
 
-* **Recursion** by Crouch, Blake
+* [Mar] **The Hunger Games (The Hunger Games, #1)** by Collins, Suzann
 
-* **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
+* [Mar] **A Short History of Nearly Everything** by  Bryson, Bill 
 
-* **World War Z: An Oral History of the Zombie War** by Brooks, Max
+* [Feb] **Recursion** by Crouch, Blake
+
+* [Feb] **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
+
+* [Jan] **World War Z: An Oral History of the Zombie War** by Brooks, Max
 
