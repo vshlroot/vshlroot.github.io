@@ -21,7 +21,7 @@ Below is a list of some of the books I enjoyed.
 
 * [Jul] **For We Are Many (Bobiverse, #2)** by Taylor, Dennis E.
 
-* [Jul] **We Are Legion (We Are Bob) (We Are Bob) (Bobiverse, #1)** by Taylor, Dennis E.
+* [Jul] **We Are Legion (We Are Bob) (Bobiverse, #1)** by Taylor, Dennis E.
 
 * [Jun] **Harry Potter and the Chamber of Secrets (Harry Potter, #2)** by Rowling, JK
 
