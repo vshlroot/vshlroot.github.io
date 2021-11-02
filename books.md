@@ -7,7 +7,9 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## 2021
-* **kafka on the Shore** by Murakami, Haruki 
+* **Can't hurt me** by Goggins, David 
+
+* **Kafka on the Shore** by Murakami, Haruki 
 
 * **Only Human (Themis Files, #3)** by Neuvel, Sylvain
 
