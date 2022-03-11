@@ -6,7 +6,15 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention, you just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed.
 
-## 2021 (19 books)
+## 2022 (1 book)
+* [Jan] **Harry Potter and the Deathly Hallows (Harry Potter, #7)** by Rowling, JK
+
+
+## 2021 (21 books)
+* [Nov] **Harry Potter and the Half-Blood Prince (Harry Potter, #6)** by Rowling, JK
+
+* [Nov] **Harry Potter and the Order of the Phoenix (Harry Potter, #5)** by Rowling, JK
+
 * [Nov] **Can't hurt me** by Goggins, David 
 
 * [Sep] **Kafka on the Shore** by Murakami, Haruki 
