@@ -7,7 +7,7 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## 2022 (5 books)
-* [May] [:headphones:] **Zero G** by Wells, Dan
+* [May] [🎧] **Zero G** by Wells, Dan
 
 * [Apr] [:headphones:] **Exhalation** by Chiang, Ted
 
