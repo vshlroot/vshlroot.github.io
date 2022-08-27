@@ -11,6 +11,10 @@ Below is a list of some of the books I enjoyed.
 * **Atomic Habits** by Clear, James
 
 ## 2022 (5 books)
+* [Aug] **Out of the Maze: An A-Mazing Way to Get Unstuck** by Johnson, Spencer
+
+* [Aug] **Upgrade** by Crouch, Blake
+
 * [May] **Zero G** by Wells, Dan
 
 * [Apr] **Exhalation** by Chiang, Ted
