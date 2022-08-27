@@ -10,7 +10,7 @@ Below is a list of some of the books I enjoyed.
 * **The Bhagavad Gita** by Easwaran, Eknath
 * **Atomic Habits** by Clear, James
 
-## 2022 (5 books)
+## 2022 (7 books)
 * [Aug] **Out of the Maze: An A-Mazing Way to Get Unstuck** by Johnson, Spencer
 
 * [Aug] **Upgrade** by Crouch, Blake
