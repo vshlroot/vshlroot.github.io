@@ -11,6 +11,8 @@ Below is a list of some of the books I enjoyed.
 * **Atomic Habits** by Clear, James
 
 ## 2022 (7 books)
+* [Dec] **The Name of the Wind (The Kingkiller Chronicle, #1)** by Rothfuss, Patrick
+
 * [Aug] **Out of the Maze: An A-Mazing Way to Get Unstuck** by Johnson, Spencer
 
 * [Aug] **Upgrade** by Crouch, Blake
