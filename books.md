@@ -10,6 +10,9 @@ Below is a list of some of the books I enjoyed.
 * **The Bhagavad Gita** by Easwaran, Eknath
 * **Atomic Habits** by Clear, James
 
+## 2023 (1 book)
+* [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
+
 ## 2022 (8 books)
 * [Dec] **The Name of the Wind (The Kingkiller Chronicle, #1)** by Rothfuss, Patrick
 
