@@ -6,18 +6,12 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention, you just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed.
 
-## Books I am reading extremely slow to grasp and implement their concepts deeply
-* **The Bhagavad Gita** by Easwaran, Eknath
-* **Atomic Habits** by Clear, James
- 
-----
-
-## Currently Reading
+## Currently Reading (5)
 * **You2** by Pritchett, Price
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by by Rothfuss, Patrick
-
-----
+* **The Bhagavad Gita** by Easwaran, Eknath
+* **Atomic Habits** by Clear, James
 
 ## 2023 (1 book)
 * [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
