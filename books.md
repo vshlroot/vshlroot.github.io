@@ -9,7 +9,13 @@ Below is a list of some of the books I enjoyed.
 ## Books I am reading extremely slow to grasp and implement their concepts deeply
 * **The Bhagavad Gita** by Easwaran, Eknath
 * **Atomic Habits** by Clear, James
+----
+## Currently Reading
+* $\text{\textbf{You}}^2$ by Pritchett, Price
+* **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
+* **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by by Rothfuss, Patrick
 
+----
 ## 2023 (1 book)
 * [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
 
