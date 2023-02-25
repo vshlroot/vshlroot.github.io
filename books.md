@@ -7,13 +7,15 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## Currently Reading (5)
-* **You2** by Pritchett, Price
+* **As A Man Thinketh** by Allen, James
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by by Rothfuss, Patrick
 * **The Bhagavad Gita** by Easwaran, Eknath
 * **Atomic Habits** by Clear, James
 
-## 2023 (1 book)
+## 2023 (2 books)
+* [Feb] **You2** by Pritchett, Price
+
 * [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
 
 ## 2022 (8 books)
