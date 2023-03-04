@@ -13,12 +13,12 @@ Below is a list of some of the books I enjoyed.
 * **The Bhagavad Gita** by Easwaran, Eknath
 * **Atomic Habits** by Clear, James
 
-## 2023 (2 books)
+## 2023 (2 books / 84 pages)
 * [Feb] **You2** by Pritchett, Price
 
 * [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
 
-## 2022 (8 books)
+## 2022 (8 books / 2500 pages)
 * [Dec] **The Name of the Wind (The Kingkiller Chronicle, #1)** by Rothfuss, Patrick
 
 * [Aug] **Out of the Maze: An A-Mazing Way to Get Unstuck** by Johnson, Spencer
@@ -35,7 +35,7 @@ Below is a list of some of the books I enjoyed.
 
 * [Jan] **Harry Potter and the Deathly Hallows (Harry Potter, #7)** by Rowling, JK
 
-## 2021 (21 books)
+## 2021 (21 books / 7350 pages)
 * [Nov] **Harry Potter and the Half-Blood Prince (Harry Potter, #6)** by Rowling, JK
 
 * [Nov] **Harry Potter and the Order of the Phoenix (Harry Potter, #5)** by Rowling, JK
