@@ -6,12 +6,11 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention, you just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed.
 
-## Currently Reading (5)
+## Currently Reading (4)
 * **As A Man Thinketh** by Allen, James
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by by Rothfuss, Patrick
-* **The Bhagavad Gita** by Easwaran, Eknath
-* **Atomic Habits** by Clear, James
+* **Freedom from the Known** by Krishnamurti, Jiddu
 
 ## 2023 (2 books / 84 pages)
 * [Feb] **You2** by Pritchett, Price
