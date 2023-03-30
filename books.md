@@ -12,7 +12,9 @@ Below is a list of some of the books I enjoyed.
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (2 books / 84 pages)
+## 2023 (3 books / 228 pages)
+* [Mar] **All Systems Red (The Murderbot Diaries, #1)** by Wells, Martha
+
 * [Feb] **You2** by Pritchett, Price
 
 * [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
