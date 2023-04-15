@@ -14,6 +14,8 @@ Below is a list of some of the books I enjoyed.
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
 ## 2023 (4 books / 386 pages)
+* [Apr] **Rogue Protocol (The Murderbot Diaries, #3)** by Wells, Martha
+
 * [Apr] **Artificial Condition (The Murderbot Diaries, #2)** by Wells, Martha
 
 * [Mar] **All Systems Red (The Murderbot Diaries, #1)** by Wells, Martha
