@@ -7,6 +7,7 @@ In the current distracting world a book does not demand anything but your comple
 Below is a list of some of the books I enjoyed.
 
 ## Currently Reading (5)
+* **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
 * **As A Man Thinketh** by Allen, James
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
