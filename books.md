@@ -6,6 +6,8 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention, you just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed.
 
+[Books I recommend](/book_recomendations.md)
+
 ## Currently Reading (4)
 * **As A Man Thinketh** by Allen, James
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
