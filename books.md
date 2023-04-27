@@ -6,14 +6,15 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention, you just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed.
 
-## Currently Reading (5)
-* **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
+## Currently Reading (4)
 * **As A Man Thinketh** by Allen, James
 * **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (5 books / 544 pages)
+## 2023 (6 books / 720 pages)
+* [APR] **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
+
 * [Apr] **Rogue Protocol (The Murderbot Diaries, #3)** by Wells, Martha
 
 * [Apr] **Artificial Condition (The Murderbot Diaries, #2)** by Wells, Martha
