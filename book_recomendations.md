@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Books
+title: Books I Recommend
 permalink: /book_recomendations/
 ---
 I am only listing books I highly recommend. All ratings are in the range 0 (Worse) to 5 (Don't put it down)
 
 ## Fantasy
 * [5] **The Kingkiller Chronicle (Series)** by Rothfuss, Patrick
+
 * [5] **Harry Potter (Series)** by Rothfuss, Patrick
 
 
 ## Science Fiction
 * [5] **Project Hail Mary** by Weir, Andy
+
 * [4.5] **The Murderbot Diaries (Series)** by Wells, Martha
 
 
