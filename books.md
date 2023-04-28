@@ -14,8 +14,10 @@ Below is a list of some of the books I enjoyed.
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (6 books / 720 pages)
-* [APR] **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
+## 2023 (7 books / 739 pages)
+* [Apr] **Home: Habitat, Range, Niche, Territory (The Murderbot Diaries, #4.5)** by Wells, Martha
+
+* [Apr] **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
 
 * [Apr] **Rogue Protocol (The Murderbot Diaries, #3)** by Wells, Martha
 
