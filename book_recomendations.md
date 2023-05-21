@@ -8,7 +8,7 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 ## Fantasy
 * [5★] **The Kingkiller Chronicle (Series)** by Rothfuss, Patrick
 
-* [5★] **Harry Potter (Series)** by Rothfuss, Patrick
+* [5★] **Harry Potter (Series)** by Rowling, JK
 
 
 ## Science Fiction
