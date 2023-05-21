@@ -18,19 +18,19 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 
 
 ## Fiction
-* [5 ⭐] **The Old Man and the Sea** by Hemingway, Ernest
+* [5★] **The Old Man and the Sea** by Hemingway, Ernest
  
 
 ## Personal Development
-* [5 ⭐] **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
+* [5★] **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
 
-* [5 ⭐] **Man's Search for Meaning** by Frankl, Viktor E.
+* [5★] **Man's Search for Meaning** by Frankl, Viktor E.
 
-* [4 ⭐] **You2** by Pritchett, Price
+* [4★] **You2** by Pritchett, Price
 
-* [4 ⭐] **Can't hurt me** by Goggins, David 
+* [4★] **Can't hurt me** by Goggins, David 
 
 
-## Spiritual
+## Spiritual/Spiritualy inclined/Discovery of the self
 
-* [5 ⭐] **Sidhartha** by Hesse, Hermann
+* [5★] **Sidhartha** by Hesse, Hermann
