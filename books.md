@@ -13,7 +13,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (7 books / 1089 pages)
+## 2023 (8 books / 1089 pages)
 * [May] **Network Effect (The Murderbot Diaries, #5)** by Wells, Martha
 
 * [Apr] **Home: Habitat, Range, Niche, Territory (The Murderbot Diaries, #4.5)** by Wells, Martha
