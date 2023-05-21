@@ -8,13 +8,14 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 
 
-## Currently Reading (4)
+## On Hold (3)
 * **As A Man Thinketh** by Allen, James
-* **Crucial Conversations: Tools for Talking When Stakes are High** by Covey, Stephen R. and Patterson, Kerry and Grenny Joseph and McMillan Ron, Switzler Al
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (7 books / 739 pages)
+## 2023 (7 books / 1089 pages)
+* [May] **Network Effect (The Murderbot Diaries, #5)** by Wells, Martha
+
 * [Apr] **Home: Habitat, Range, Niche, Territory (The Murderbot Diaries, #4.5)** by Wells, Martha
 
 * [Apr] **Exit Strategy (The Murderbot Diaries, #4)** by Wells, Martha
