@@ -13,7 +13,9 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2023 (9 books / 1290 pages)
+## 2023 (10 books / 1762 pages)
+* [Oct] **The Three-Body Problem (Remebrance of Earth's Past)** by Cixin, Liu
+
 * [July] **Elder Race** by Tchaikovsky, Adrian
 
 * [May] **Network Effect (The Murderbot Diaries, #5)** by Wells, Martha
