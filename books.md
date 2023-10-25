@@ -14,7 +14,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
 ## 2023 (10 books / 1762 pages)
-* [Oct] **The Three-Body Problem (Remebrance of Earth's Past)** by Cixin, Liu
+* [Oct] **The Three-Body Problem (Remebrance of Earth's Past #1)** by Cixin, Liu
 
 * [July] **Elder Race** by Tchaikovsky, Adrian
 
