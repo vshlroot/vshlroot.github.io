@@ -13,7 +13,9 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2024 (2 books / 528 pages)
+## 2024 (3 books / 800 pages)
+* [Feb] **Piranesi** by Clarke, Susanna
+  
 * [Feb] **Starter Villain** by Scalzi, John
 
 * [Feb] **The Kaiju Preservation Society** by Scalzi, John
