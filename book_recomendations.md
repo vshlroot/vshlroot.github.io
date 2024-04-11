@@ -32,7 +32,7 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 
 * [4★] **Can't hurt me** by Goggins, David
 
-* [4.5★] **4000 Weeks** by Bosman, Robert 
+* [4.5★] **Four Thousand Weeks: Time Management for Mortal** by Burkeman, Oliver 
 
 
 
