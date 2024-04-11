@@ -25,12 +25,16 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 
 ## Personal Development
 * [5★] **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
-
+  
 * [5★] **Man's Search for Meaning** by Frankl, Viktor E.
 
 * [4★] **You2** by Pritchett, Price
 
-* [4★] **Can't hurt me** by Goggins, David 
+* [4★] **Can't hurt me** by Goggins, David
+
+* [4.5★] **4000 Weeks** by Bosman, Robert 
+
+
 
 
 ## Spiritual/Spiritualy inclined/Discovery of the self
