@@ -9,11 +9,12 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 
 ## On Hold (3)
-* **As A Man Thinketh** by Allen, James
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
 ## 2024 (4 books / 1073 pages)
+* [Jun] **As A Man Thinketh** by Allen, James
+  
 * [Apr] **Four Thousand Weeks: Time Management for Mortals** by Burkeman, Oliver 
 
 * [Feb] **Piranesi** by Clarke, Susanna
