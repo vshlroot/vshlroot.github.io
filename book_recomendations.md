@@ -40,3 +40,5 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 ## Spiritual/Spiritualy inclined/Discovery of the self
 
 * [5★] **Sidhartha** by Hesse, Hermann
+
+* [5★] **As A Man Thinketh** by Allen, James
