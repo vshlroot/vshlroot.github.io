@@ -12,7 +12,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2024 (9 books / 1173 pages)
+## 2024 (9 books / 1762 pages)
 * [Dec] **A Psalm for the Wild-Built (Monk & Robot, #1)** by Chambers, Becky
 
 * [Nov] **The Happiest Man on Earth** by Jaku, Eddie
