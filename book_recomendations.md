@@ -24,6 +24,8 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
  
 
 ## Personal Development
+* [5★] **The Happiest Man on Earth** by Jaku, Eddie
+  
 * [5★] **Non Violent Communication A Language of Life** by Rosenberg, Marshall B.
   
 * [5★] **Man's Search for Meaning** by Frankl, Viktor E.
