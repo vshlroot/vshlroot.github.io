@@ -18,6 +18,8 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
   
 * [4.5★] **The Murderbot Diaries (Series)** by Wells, Martha
 
+* [4.5★] **This Is How You Lose the Time War** by El-Mohtar, Amal and Gladstone, Max
+
 
 ## Fiction
 * [5★] **The Old Man and the Sea** by Hemingway, Ernest
