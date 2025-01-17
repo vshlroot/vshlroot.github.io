@@ -13,7 +13,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
 ## 2025 (1 book / 422 pages)
-* [Dec] **The Mercy of Gods (The Captive’s War, #1)** by Corey, James S.A.
+* [Jan] **The Mercy of Gods (The Captive’s War, #1)** by Corey, James S.A.
 
 ## 2024 (10 books / 1971 pages)
 * [Dec] **This Is How You Lose the Time War** by El-Mohtar, Amal and Gladstone, Max
@@ -55,7 +55,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 * [Feb] **You2** by Pritchett, Price
 
-* [Jan] **ADHD Time Management** by Ferguson, Michael Joseph
+* [Jan] **Time Management** by Ferguson, Michael Joseph
 
 ## 2022 (8 books / 2500 pages)
 * [Dec] **The Name of the Wind (The Kingkiller Chronicle, #1)** by Rothfuss, Patrick
