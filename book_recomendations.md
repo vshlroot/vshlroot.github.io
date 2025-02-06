@@ -46,3 +46,5 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 * [5★] **Sidhartha** by Hesse, Hermann
 
 * [5★] **As A Man Thinketh** by Allen, James
+
+* [∞★] **Ashtavakra Mahageeta, Vol. 1 -- अष्टावक्र महागीता, भाग एक: युग बीते पर सत्य न बीता, सब हारा पर सत्य न हारा** by Osho
