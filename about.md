@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a graduate student at Indian Institute of Technology Delhi, India. I work in Deep Reinforcement Learning and Machine learning. I plan to share my views and my journey on this blog.
+I am.
+
+My name is Vishal.
+
+
+In my work, I build AI technologies like LLMs, rankers, retrievers, data-pipelines for (extremely) large scale data. During my PhD at Indian Institute of Technology Delhi, I did research in "Generalized AI in planning, RL and Probabilistic Graphical Models" under the guidance of <a href="https://www.cse.iitd.ac.in/~parags">Prof. Parag Singla</a> and <a href="https://www.cse.iitd.ac.in/~mausam">Prof. Mausam</a>.
 
 ### Contact me
 
