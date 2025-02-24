@@ -12,7 +12,9 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (2 books / 727 pages)
+## 2025 (3 books / 1034 pages)
+* [Feb] **Welcome to the Hyunam-Dong Bookshop** by Hwang, Bo-Reum
+
 * [Jan] **The Mercy of Gods (The Captive’s War, #1)** by Corey, James S.A.
 
 * [Jan] **Ashtavakra Mahageeta, Vol. 1 -- अष्टावक्र महागीता, भाग एक: युग बीते पर सत्य न बीता, सब हारा पर सत्य न हारा** by Osho
