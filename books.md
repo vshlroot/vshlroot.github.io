@@ -6,13 +6,16 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention; You just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed (and [here is a list of books I highly recommend](/book_recomendations.md)).
 
-**Total Books Read**: 83
+**Total Books Read**: 84
 
 ## On Hold (2)
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (5 books / 1654 pages)
+## 2025 (6 books / 2018 pages)
+
+* [Mar] **Carl's Doomsday Scenario (Dungeon Crawler Carl, #2)** by Dinniman, Matt
+  
 * [Mar] **The Mysterious Affair at Styles (Hercule Poirot, #1)** by Christie, Agatha
 
 * [Feb] **Dungeon Crawler Carl (Dungeon Crawler Carl, #1)** by Dinniman, Matt
