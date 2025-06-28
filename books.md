@@ -12,7 +12,9 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (8 books / 3138 pages)
+## 2025 (9 books / 3346 pages)
+
+* [June] **Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts** by Burkeman, Oliver
 
 * [May] **The Gate of the Feral Gods (Dungeon Crawler Carl, #4)**  by Dinniman, Matt
 
