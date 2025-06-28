@@ -38,6 +38,7 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 
 * [4.5★] **Four Thousand Weeks: Time Management for Mortals** by Burkeman, Oliver 
 
+* [4.5★] **Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts** by Burkeman, Oliver
 
 
 
