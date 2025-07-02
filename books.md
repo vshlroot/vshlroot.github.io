@@ -16,7 +16,7 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 * [Jul] **The Giver** by Lowry, Lois
 
-* [Jun] **Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts** by Burkeman, Oliver
+* [Jun] **Meditations for Mortals** by Burkeman, Oliver
 
 * [May] **The Gate of the Feral Gods (Dungeon Crawler Carl, #4)**  by Dinniman, Matt
 
