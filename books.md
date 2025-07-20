@@ -6,7 +6,7 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention; You just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed (and [here is a list of books I highly recommend](/book_recomendations.md)).
 
-**Total Books Read**: 86
+**Total Books Read**: 87
 
 ## On Hold (2)
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
