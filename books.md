@@ -12,8 +12,10 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (10 books / 3554 pages)
+## 2025 (11 books / 4286 pages)
 
+* [Jul] **The Butcher's Masquerade (Dungeon Crawler Carl, #5)**  by Dinniman, Matt
+  
 * [Jul] **The Giver** by Lowry, Lois
 
 * [Jun] **Meditations for Mortals** by Burkeman, Oliver
