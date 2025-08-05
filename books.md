@@ -14,6 +14,8 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 ## 2025 (12 books / 4590 pages)
 
+* [Aug] **The Left Hand of Darkness**  by Le Guin, Ursula K.
+
 * [Jul] **The Butcher's Masquerade (Dungeon Crawler Carl, #5)**  by Dinniman, Matt
   
 * [Jul] **The Giver** by Lowry, Lois
