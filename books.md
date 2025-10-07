@@ -6,13 +6,15 @@ permalink: /books/
 In the current distracting world a book does not demand anything but your complete concentration. In fact, I will even go ahead and say that a book is the only thing that can capture your complete attention; You just can't be distracted while reading a book!
 Below is a list of some of the books I enjoyed (and [here is a list of books I highly recommend](/book_recomendations.md)).
 
-**Total Books Read**: 93
+**Total Books Read**: 94
 
 ## On Hold (2)
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (15 books / 5695 pages)
+## 2025 (16 books / 6389 pages)
+
+* [Oct] **The Inevitable Ruin (Dungeon Crawler Carl, #7)**  by Dinniman, Matt
 
 * [Sep] **The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)**  by Dinniman, Matt
   
