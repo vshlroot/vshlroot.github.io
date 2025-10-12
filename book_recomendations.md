@@ -16,6 +16,8 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 
 * [5★] **The Three-Body Problem (Remembrance of Earth's Past #1)** by Cixin, Liu
   
+* [5★] **Dungeon Crawler Carl (Series)**  by Dinniman, Matt
+
 * [4.5★] **The Murderbot Diaries (Series)** by Wells, Martha
 
 * [4.5★] **This Is How You Lose the Time War** by El-Mohtar, Amal and Gladstone, Max
@@ -49,3 +51,9 @@ I am only listing books I highly recommend. All ratings are in the range 0 (Wors
 * [5★] **As A Man Thinketh** by Allen, James
 
 * [∞★] **Ashtavakra Mahageeta, Vol. 1 -- अष्टावक्र महागीता, भाग एक: युग बीते पर सत्य न बीता, सब हारा पर सत्य न हारा** by Osho
+
+
+## Books where listening to audiobook is better than reading the book
+* **Project Hail Mary** by Weir, Andy
+
+* **Dungeon Crawler Carl (Series)**  by Dinniman, Matt
