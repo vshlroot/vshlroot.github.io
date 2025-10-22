@@ -12,27 +12,29 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (16 books / 6389 pages)
+## 2025 (17 books / 6997 pages)
 
-* [Oct] **The Inevitable Ruin (Dungeon Crawler Carl, #7)**  by Dinniman, Matt
+* [Oct] **Children of Time (Children of Time, #1)** by Tchaikovsky, Adrian
+  
+* [Oct] **The Inevitable Ruin (Dungeon Crawler Carl, #7)** by Dinniman, Matt
 
-* [Sep] **The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)**  by Dinniman, Matt
+* [Sep] **The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)** by Dinniman, Matt
   
 * [Aug] **Legends & Lattes (Legends & Lattes, #1)** by Baldree, Travis
 
-* [Aug] **Of Mice and Men**  by Steinbeck, John
+* [Aug] **Of Mice and Men** by Steinbeck, John
 
-* [Aug] **The Left Hand of Darkness**  by Le Guin, Ursula K.
+* [Aug] **The Left Hand of Darkness** by Le Guin, Ursula K.
 
-* [Jul] **The Butcher's Masquerade (Dungeon Crawler Carl, #5)**  by Dinniman, Matt
+* [Jul] **The Butcher's Masquerade (Dungeon Crawler Carl, #5)** by Dinniman, Matt
   
 * [Jul] **The Giver** by Lowry, Lois
 
 * [Jun] **Meditations for Mortals** by Burkeman, Oliver
 
-* [May] **The Gate of the Feral Gods (Dungeon Crawler Carl, #4)**  by Dinniman, Matt
+* [May] **The Gate of the Feral Gods (Dungeon Crawler Carl, #4)** by Dinniman, Matt
 
-* [Mar] **The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl, #3)**  by Dinniman, Matt
+* [Mar] **The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl, #3)** by Dinniman, Matt
 
 * [Mar] **Carl's Doomsday Scenario (Dungeon Crawler Carl, #2)** by Dinniman, Matt
   
