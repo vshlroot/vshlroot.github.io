@@ -12,7 +12,9 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2025 (17 books / 6997 pages)
+## 2025 (18 books / 7219 pages)
+
+* [Oct] **The Power of Full Engagement** by  Loehr, Jim
 
 * [Oct] **Children of Time (Children of Time, #1)** by Tchaikovsky, Adrian
   
