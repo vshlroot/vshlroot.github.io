@@ -12,7 +12,11 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 * **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
 * **Freedom from the Known** by Krishnamurti, Jiddu
 
-## 2026 (1 book / 486 pages)
+## 2026 (3 book / 1372 pages)
+* [May] **The Library at Mount Char** by Hawkins, Scott
+
+* [Apr] **Children of Strife (Children of Time, #4)** by Tchaikovsky, Adrian
+
 * [Feb] **Children of Memory (Children of Time, #3)** by Tchaikovsky, Adrian
 
 ## 2025 (19 books / 7816 pages)
