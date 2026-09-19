@@ -8,11 +8,10 @@ Below is a list of some of the books I enjoyed (and [here is a list of books I h
 
 **Total Books Read**: 102
 
-## On Hold (2)
-* **The Wise Man's Fear (The Kingkiller Chronicle, #2)** by Rothfuss, Patrick
-* **Freedom from the Known** by Krishnamurti, Jiddu
+## 2026 (6 book / 2211 pages)
 
-## 2026 (5 book / 1775 pages)
+* [SEP] **The Faith of Beasts (The Captive's War, #2)** by Corey, James S.A.
+
 * [Jun] **There Is No Antimemetics Division** by qntm
 
 * [May] **A Wizard of Earthsea** by Le Guin, Ursula K.
